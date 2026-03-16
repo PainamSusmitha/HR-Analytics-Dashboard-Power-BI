@@ -4,4 +4,4 @@ I created an HR Analytics Dashboard using Power BI to analyze employee data such
 
 ## Dashboard Preview
 
-![HR Analytics Dashboard](HR - Analytics dashboard.png)
+[HR Analytics Dashboard](HR - Analytics dashboard.png)
