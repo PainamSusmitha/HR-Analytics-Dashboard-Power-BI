@@ -1,7 +1,29 @@
-# HR-Analytics-Dashboard-Power-BI
+# HR Analytics Dashboard – Power BI
 
-I created an HR Analytics Dashboard using Power BI to analyze employee data such as age, salary, department headcount, and gender distribution. The dashboard helps understand workforce trends and provides useful insights for better decision making.
+## 📊 Project Overview
+
+This project analyzes employee workforce data using Power BI to generate HR insights and support better decision-making.
+
+## 🛠 Tools Used
+
+* Power BI
+* Excel
+* Power Query
+* Data Visualization
+
+## 📈 Key Features
+
+* Employee attrition analysis
+* Department-wise workforce distribution
+* Gender and age analysis
+* Interactive dashboard with charts and filters
+
+## 🔍 Key Insights
+
+* Analyzed employee distribution across departments
+* Identified workforce trends using visual reports
+* Generated HR insights for better decision-making
 
 ## Dashboard Preview
 
-[HR Analytics Dashboard](HR - Analytics dashboard.png)
+![Dashboard Preview](HR%20-%20Analytics%20dashboard.png)
