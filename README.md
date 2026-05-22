@@ -26,4 +26,5 @@ This project analyzes employee workforce data using Power BI to generate HR insi
 
 ## Dashboard Preview
 
-![Dashboard Preview](HR%20-%20Analytics%20dashboard.png)
+![Dashboard Preview](HR-Analytics_Dashboard.png)
+
