@@ -24,4 +24,4 @@ This project analyzes employee workforce data using Power BI to generate HR insi
 * Average salary across organization is 6.41K
 
 ## Dashboard Preview
-![Dashboard Preview](HR-%20Analytics%20Dashboard.png)
+![Dashboard Preview](HR%20Analytics%20Dashboard.png)
